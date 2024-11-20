@@ -1,5 +1,7 @@
 # 27-07-24
 
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?logo=github&logoColor=white)](https://github.com/danielrosehill/Daniel-Public-Changelog)
+
 - Created this changelog!
 - Created a repository for Github optimisation [here](https://github.com/danielrosehill/Github-Optimisation). The purpose of this repository is to gather together scripts and ideas for organising a sprawling Github repository as I think of them. The repository will contain a mixture of ChatGPT outputs and my own notes.
 
