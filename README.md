@@ -1,3 +1,7 @@
+# Consolidated Changelog
+
+![alt text](images/sloth-coding.webp)
+
 # 27-07-24
 
 [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?logo=github&logoColor=white)](https://github.com/danielrosehill/Daniel-Public-Changelog)
